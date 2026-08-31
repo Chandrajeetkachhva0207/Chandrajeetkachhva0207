@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Chandrajeet Kachhva**
 
-### 🚀 Full Stack Developer | Java Developer | Data Analytics Enthusiast
+### 🚀 Full Stack Developer | Java | Python| Data Analytics Enthusiast
 
 <p>
   <a href="https://github.com/Chandrajeetkachhva0207">
